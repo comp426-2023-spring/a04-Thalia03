@@ -1,0 +1,19 @@
+{
+  "name": "a04-thalia03",
+  "version": "1.0.0",
+  "description": "This assignment will help you stand up a web API using Express and the module that you produced for a03.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "keywords": [],
+  "author": "@Thalia03",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "express": "^4.18.2"
+  }
+}
