@@ -1,0 +1,4 @@
+root: C:\Users\Thali\comp_426\a04-Thalia03 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
